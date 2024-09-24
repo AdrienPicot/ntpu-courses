@@ -25,7 +25,7 @@
 			- Sets off non-essential information: _My brother, who lives in New York, is visiting._
 		- **Exclamation Mark (!)**
 			- Conveys strong emotion or command: _Wow! That’s amazing!_
-		- - **Question Mark (?)**
+		- **Question Mark (?)**
 		    - Ends a direct question: _Where are you going?_
 		- **Colon (:)**
 			- Introduces a list, explanation, or quotation: _He brought the essentials: food, water, and a map._
